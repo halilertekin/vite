@@ -30,7 +30,7 @@
   "homepage": "https://github.com/vitejs/vite/tree/main/packages/create-vite#readme",
   "dependencies": {
     "kolorist": "^1.5.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.8",
     "prompts": "^2.4.1"
   }
 }
