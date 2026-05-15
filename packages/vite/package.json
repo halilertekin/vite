@@ -47,10 +47,10 @@
   },
   "//": "READ .github/contributing.md to understand what to put under deps vs. devDeps!",
   "dependencies": {
-    "esbuild": "^0.12.8",
-    "postcss": "^8.3.5",
+    "esbuild": "^0.25.0",
+    "postcss": "^8.5.10",
     "resolve": "^1.20.0",
-    "rollup": "^2.38.5"
+    "rollup": "^2.80.0"
   },
   "optionalDependencies": {
     "fsevents": "~2.3.2"
@@ -105,7 +105,7 @@
     "launch-editor-middleware": "^2.2.1",
     "magic-string": "^0.25.7",
     "mime": "^2.5.2",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.1.4",
     "okie": "^1.0.1",
     "open": "^8.2.1",
     "periscopic": "^2.0.3",
@@ -119,9 +119,9 @@
     "source-map": "^0.6.1",
     "source-map-support": "^0.5.19",
     "strip-ansi": "^6.0.0",
-    "terser": "^5.7.1",
+    "terser": "^5.47.1",
     "tslib": "^2.3.0",
     "types": "link:./types",
-    "ws": "^7.5.3"
+    "ws": "^7.5.10"
   }
 }
