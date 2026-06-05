@@ -16,6 +16,6 @@
     "lit-element": "^2.4.0"
   },
   "devDependencies": {
-    "vite": "^2.4.3"
+    "vite": "^8.0.16"
   }
 }
